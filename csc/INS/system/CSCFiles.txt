@@ -1,0 +1,6 @@
+/system/csc/INS/system/csc/contents.db
+/system/csc/INS/system/csc/others.xml
+/system/csc/INS/system/csc/sales_code.dat
+/system/csc/INS/system/csc/customer.xml
+/system/csc/INS/system/CSCFiles.txt
+/system/csc/INS/system/CSCVersion.txt

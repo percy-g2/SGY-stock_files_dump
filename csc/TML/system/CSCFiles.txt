@@ -1,0 +1,6 @@
+/system/csc/TML/system/csc/contents.db
+/system/csc/TML/system/csc/others.xml
+/system/csc/TML/system/csc/sales_code.dat
+/system/csc/TML/system/csc/customer.xml
+/system/csc/TML/system/CSCFiles.txt
+/system/csc/TML/system/CSCVersion.txt
